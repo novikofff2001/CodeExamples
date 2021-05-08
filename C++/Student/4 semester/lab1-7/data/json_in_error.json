@@ -1,0 +1,30 @@
+[
+	{
+		"color":"boo",
+		"mark":"Ford",
+		"max_speed":200,
+		"veh_type":0,
+		"year":2011
+	},
+	{
+		"color":5,
+		"mark":"LADA",
+		"max_speed":148,
+		"veh_type":0,
+		"year":2011
+	},
+	{
+		"color":1,
+		"mark":"Opel",
+		"max_speed":120,
+		"veh_type":0,
+		"year":2011
+	},
+	{
+		"color":5,
+		"mark":"BMW",
+		"max_speed":100,
+		"veh_type":0,
+		"year":2011
+	}
+]
